@@ -1,4 +1,10 @@
-﻿#include <stdio.h>
+﻿/*
+Guess the Number Game
+The program randomly selects a number within a user-defined limit.
+The player has seven attempts to guess the number, receiving feedback after each guess.
+If the player guesses correctly within the allowed attempts, they win; otherwise, they lose.
+*/
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 

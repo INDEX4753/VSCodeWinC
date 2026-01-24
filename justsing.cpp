@@ -1,4 +1,7 @@
-﻿#include <stdio.h>
+﻿/*
+阿伏伽德罗公式
+*/
+#include <stdio.h>
 
 int main()
 {

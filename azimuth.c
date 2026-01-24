@@ -13,5 +13,4 @@ int main()
     angle = fmod(((atan2(y, x) * 180.0) / acos(-1.0)) + 360.0, 360.0);
 
     printf("%.4lf %.4lf", distance, fmod(450.0 - angle, 360.0));
-    return 0;
 }
